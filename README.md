@@ -1,2 +1,2 @@
 # nginxnew
-nginxnewimage_push
+nginxnewimage_push_new
