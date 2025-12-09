@@ -33,7 +33,7 @@
               # Specify the type of scan (e.g., 'image' for container images, 'fs' for file system, 'config' for config files)
               scan-type: 'image'
               # For image scans, specify the image reference
-              image-ref: 'my-nginx-app:latest'
+              image-ref: 'my-nginx-app'
               # Define the output format (e.g., 'json', 'table')
               format: 'table'
               # Set the exit code behavior (e.g., '1' to fail the job on vulnerabilities)
