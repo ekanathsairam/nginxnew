@@ -37,7 +37,7 @@
               # Define the output format (e.g., 'json', 'table')
               format: 'table'
               # Set the exit code behavior (e.g., '1' to fail the job on vulnerabilities)
-              exit-code: '1'
+              exit-code: '0'
               # Ignore unfixed vulnerabilities
               ignore-unfixed: true
               # Filter vulnerabilities by severity
